@@ -13,6 +13,7 @@
 		8D35D5C12611D20E00530D62 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8D35D5C02611D20E00530D62 /* Preview Assets.xcassets */; };
 		8D35D5CC2611D20F00530D62 /* FavouriteFoodTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D35D5CB2611D20F00530D62 /* FavouriteFoodTests.swift */; };
 		8D35D5D72611D20F00530D62 /* FavouriteFoodUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D35D5D62611D20F00530D62 /* FavouriteFoodUITests.swift */; };
+		8DE806E82611F07B00E39622 /* Chocolate.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8DE806E72611F07B00E39622 /* Chocolate.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		8D35D5D22611D20F00530D62 /* FavouriteFoodUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FavouriteFoodUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8D35D5D62611D20F00530D62 /* FavouriteFoodUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavouriteFoodUITests.swift; sourceTree = "<group>"; };
 		8D35D5D82611D20F00530D62 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8DE806E72611F07B00E39622 /* Chocolate.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Chocolate.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				8D35D5B92611D20E00530D62 /* FavouriteFoodApp.swift */,
 				8D35D5BB2611D20E00530D62 /* ContentView.swift */,
 				8D35D5BD2611D20E00530D62 /* Assets.xcassets */,
+				8DE806E72611F07B00E39622 /* Chocolate.jpg */,
 				8D35D5C22611D20E00530D62 /* Info.plist */,
 				8D35D5BF2611D20E00530D62 /* Preview Content */,
 			);
@@ -234,6 +237,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8D35D5C12611D20E00530D62 /* Preview Assets.xcassets in Resources */,
+				8DE806E82611F07B00E39622 /* Chocolate.jpg in Resources */,
 				8D35D5BE2611D20E00530D62 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -10,7 +10,18 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         Image("Chocolate")
-            .padding()
+            .resizable()
+            .frame(width: 300.0, height:200.00)
+        Text("Chocolate")
+            .font(.largeTitle)
+            .padding(1)
+        Text("This is chocolate")
+            .font(.title)
+            .padding(2)
+        Text("I really like chocolate so I added this in")
+            
+           
+            
     }
 }
 
